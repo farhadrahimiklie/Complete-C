@@ -1,5 +1,3 @@
-# Memory Management in C - Complete Guide
-
 ## Introduction
 
 Memory management is a fundamental concept in C programming that deals with how a program allocates, uses, and releases memory during execution. Understanding memory management is essential for building efficient and bug-free programs, especially complex data structures like linked lists, trees, or even systems like Git.

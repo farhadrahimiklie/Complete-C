@@ -1,8 +1,3 @@
-Understanding **identifiers** properly is crucial, because **every variable, function, array, structure, or constant name** you use in your C program is an *identifier*.
-So, let’s go step-by-step and explain everything clearly and completely.
-
----
-
 ## 🧭 1. What is an Identifier in C?
 
 In simple terms:

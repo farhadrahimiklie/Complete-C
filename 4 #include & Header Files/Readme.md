@@ -1,6 +1,3 @@
-
----
-
 ## 🧭 1. What is `#include` in C?
 
 `#include` is a **preprocessor directive** in C.
@@ -361,18 +358,3 @@ Then the compiler compiles this, and during **linking**, the system links your p
 | **Header guards**        | Prevent multiple inclusions                    |
 | **Library files**        | Contain compiled definitions                   |
 | **Preprocessor role**    | Expands includes and macros before compilation |
-
----
-
-## 🏁 15. Quick Recap
-
-1. `#include` tells the preprocessor to copy code from another file.
-2. Header files contain **declarations** — not the actual code.
-3. Two types:
-
-   * `<stdio.h>` → system header
-   * `"myheader.h"` → user-defined header
-4. Avoid multiple inclusion using header guards.
-5. Actual function definitions exist in **library files**, linked during compilation.
-
----

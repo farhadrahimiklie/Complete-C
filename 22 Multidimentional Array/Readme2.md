@@ -1,9 +1,3 @@
-# 2D Arrays in C (With and Without Pointers)
-
-This README provides a complete, structured explanation of two-dimensional (2D) arrays in C, covering both **standard 2D arrays** and **dynamic 2D arrays using pointers**. Each section includes full concepts and example code.
-
----
-
 ## 1. What Is a 2D Array?
 
 A **2D array** is an array of arrays. It represents data in rows and columns, similar to a table or matrix.
@@ -192,17 +186,3 @@ int main() {
 * **Use static 2D arrays** for small, fixed matrix sizes.
 * **Use `int **` dynamic arrays** when rows or columns must be variable at runtime.
 * **Use single-block allocation** for performance-sensitive applications.
-
----
-
-## 7. Summary
-
-This document covered:
-
-* How 2D arrays work in C.
-* Static 2D arrays and element access.
-* Dynamic 2D arrays using pointer-to-pointer.
-* Dynamic 2D arrays using single-block memory.
-* Memory management considerations.
-
-You now have full foundational knowledge of 2D arrays in C, suitable for building larger applications.

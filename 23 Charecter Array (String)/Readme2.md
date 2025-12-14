@@ -1,9 +1,3 @@
-# Character Arrays in C — Complete Course
-
-This README provides a full, comprehensive, and beginner‑friendly course on **Character Arrays in C**, covering all essential concepts needed for real projects.
-
----
-
 ## 1. Introduction to Character Arrays
 
 A character array in C is a sequence of characters stored in contiguous memory. It is commonly used to store text or strings.
@@ -257,14 +251,3 @@ This course covered:
 * Multidimensional arrays
 * Pointers and arrays
 * Practical example
-
-You now have a complete understanding of character arrays in C suitable for real project development.
-
----
-
-If you want, I can also create:
-
-* A dedicated code file
-* More exercises
-* A full PDF course
-* A video‑friendly script

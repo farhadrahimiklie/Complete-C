@@ -1,6 +1,3 @@
-
----
-
 # 🧩 1. What is an Escape Sequence?
 
 In C, an **escape sequence** is a combination of **two or more characters** that **begin with a backslash (`\`)** and are used to represent **special characters** that **cannot be typed or printed directly**.

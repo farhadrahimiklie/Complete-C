@@ -1,6 +1,3 @@
-
----
-
 # 🧠 What Are Data Types in C?
 
 A **data type** defines:

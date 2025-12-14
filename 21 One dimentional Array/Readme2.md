@@ -1,7 +1,3 @@
-# C Language Arrays: Complete Guide (1D and 2D)
-
-This document provides a comprehensive and structured explanation of one-dimensional and two-dimensional arrays in the C programming language. It is designed to help you gain a complete understanding with no skipped concepts.
-
 ## 1. Introduction to Arrays
 
 An array in C is a collection of elements of the same data type stored in contiguous memory locations. Arrays allow efficient storage and access of multiple values using a single variable name.
@@ -189,11 +185,3 @@ for(int i=0; i<2; i++) {
     }
 }
 ```
-
----
-
-## 7. Summary
-
-This README provided full coverage of one-dimensional and two-dimensional arrays in C, including their declaration, initialization, memory layout, usage in functions, and common pitfalls. Mastery of these concepts is essential before moving to more advanced data structures.
-
-If you need an expanded tutorial, more examples, or diagrams, feel free to ask.
