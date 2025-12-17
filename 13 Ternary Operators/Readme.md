@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Ternary Operator in C (Full Details)**
 
 ---

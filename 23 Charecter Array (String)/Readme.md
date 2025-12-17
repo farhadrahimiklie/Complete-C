@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Character Arrays (Strings) in C – Full Details**
 
 ---

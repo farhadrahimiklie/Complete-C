@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Type Casting in C (Full Details)**
 
 ---

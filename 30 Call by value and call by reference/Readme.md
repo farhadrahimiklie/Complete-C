@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Call by Value and Call by Reference in C – Full Details**
 
 ---

@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Memory Management and Avoiding Memory Leaks in C – Full Details**
 
 ---

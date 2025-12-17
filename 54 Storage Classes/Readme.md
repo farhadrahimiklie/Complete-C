@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Storage Classes in C – Full Details**
 
 ---

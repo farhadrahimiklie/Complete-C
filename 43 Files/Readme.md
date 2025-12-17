@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **File Handling in C – Full Details**
 
 ---

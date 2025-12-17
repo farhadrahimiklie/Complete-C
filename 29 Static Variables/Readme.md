@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Static Variables in C – Full Details**
 
 ---

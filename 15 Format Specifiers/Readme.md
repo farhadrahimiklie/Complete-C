@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Format Specifiers in C (Full Details)**
 
 ---

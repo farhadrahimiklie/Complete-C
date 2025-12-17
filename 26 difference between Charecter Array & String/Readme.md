@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Difference Between Character Array and String in C – Full Details**
 
 ---

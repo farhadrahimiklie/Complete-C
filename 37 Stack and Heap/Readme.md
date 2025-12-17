@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Stack and Heap in C – Full Details**
 
 ---

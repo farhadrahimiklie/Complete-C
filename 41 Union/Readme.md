@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Union in C – Full Details**
 
 ---
@@ -220,14 +217,3 @@ int main() {
 * **Union** → store multiple data members **one at a time**, shared memory
 * **Use union** when memory optimization is needed and **only one member is required at a time**
 * **Use structure** for storing all data together
-
----
-
-Farhad, in simple words:
-
-> * Structure = “all members live together in memory”
-> * Union = “members share the same memory, only one valid at a time”
-> * Memory efficiency → union > structure
-> * Safety & multi-member access → structure > union
-
----

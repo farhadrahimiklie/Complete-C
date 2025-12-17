@@ -237,17 +237,3 @@ int main() {
     return 0;
 }
 ```
-
----
-
-## 14. Summary
-
-This course covered:
-
-* Character array basics
-* Memory layout
-* Input/output techniques
-* String functions
-* Multidimensional arrays
-* Pointers and arrays
-* Practical example

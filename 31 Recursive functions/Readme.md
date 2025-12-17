@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Recursive Functions in C – Full Details**
 
 ---

@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Switch-Case Statement in C (Full Details)**
 
 ---

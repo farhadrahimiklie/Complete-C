@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Enum in C – Full Details**
 
 ---
@@ -174,13 +171,3 @@ Name: Farhad, Age: 25, Gender: Male
 | Enum + Switch  | Makes code readable instead of numbers                        |
 | Enum in struct | Useful for fields with limited options (status, type, gender) |
 | Memory         | Usually same as int (4 bytes)                                 |
-
----
-
-Farhad, in simple words:
-
-> * **Enum** = named constants → more readable than numbers
-> * **Switch + Enum** = cleaner conditional logic
-> * **Enum in struct** = limits values to predefined set → safer programming
-
----

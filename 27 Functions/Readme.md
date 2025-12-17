@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Functions in C – Full Details**
 
 ---

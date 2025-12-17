@@ -1,7 +1,3 @@
-# Static and Dynamic Memory in C: Complete Guide
-
----
-
 ## 1. What is Memory Management in C?
 
 * In C, memory is the space your program uses to store variables, data structures, and program instructions.

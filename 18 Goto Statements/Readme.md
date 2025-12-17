@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Goto Statement in C (Full Details)**
 
 ---

@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Preprocessor, Macros, and Macro Arguments in C – Full Details**
 
 ---

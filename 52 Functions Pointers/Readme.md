@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Function Pointers in C – Full Details**
 
 ---

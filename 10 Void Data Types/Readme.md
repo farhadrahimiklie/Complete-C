@@ -1,6 +1,3 @@
-
----
-
 ## 🧠 1. What Is `void`?
 
 * `void` is a **special or empty data type** in C.

@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **typedef with Structures in C – Full Details**
 
 ---

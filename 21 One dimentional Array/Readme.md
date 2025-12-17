@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Arrays in C (One-Dimensional Arrays Full Details)**
 
 ---

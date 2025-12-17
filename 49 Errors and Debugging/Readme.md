@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Errors and Debugging in C – Full Details**
 
 ---

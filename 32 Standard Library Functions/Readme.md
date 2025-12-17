@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Standard Library Functions in C – Full Details**
 
 ---

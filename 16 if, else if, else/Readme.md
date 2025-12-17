@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **If, Else If, Else Ladder in C (Full Details)**
 
 ---

@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Memory Concepts in C: Static vs Dynamic Memory**
 
 ---

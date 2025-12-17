@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Loops in C (Full Details)**
 
 ---

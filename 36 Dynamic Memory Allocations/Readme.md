@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Dynamic Memory Allocation in C – Full Details**
 
 ---

@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Array of Pointers in C – Full Details**
 
 ---

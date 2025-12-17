@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Operator Precedence and Associativity in C (Full Details)**
 
 ---

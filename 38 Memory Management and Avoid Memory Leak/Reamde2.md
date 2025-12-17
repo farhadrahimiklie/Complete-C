@@ -1,20 +1,3 @@
-## Introduction
-
-Memory management is a fundamental concept in C programming that deals with how a program allocates, uses, and releases memory during execution. Understanding memory management is essential for building efficient and bug-free programs, especially complex data structures like linked lists, trees, or even systems like Git.
-
-This guide will cover:
-
-- Types of memory used in C programs
-- Static, automatic, and dynamic memory allocation
-- How to use pointers with memory
-- Dynamic memory functions: `malloc`, `calloc`, `realloc`, and `free`
-- Common issues: memory leaks, dangling pointers, double free
-- Best practices for memory management
-- Example: Implementing a linked list with dynamic memory
-- Tips for building bigger projects
-
----
-
 ## 1. Memory in C Programs
 
 C programs use memory in several ways:

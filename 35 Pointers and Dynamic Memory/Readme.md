@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Pointers and Dynamic Memory Allocation in C – Full Details**
 
 ---

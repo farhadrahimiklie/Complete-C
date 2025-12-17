@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Variable Scope and Lifetime in C – Full Details**
 
 ---

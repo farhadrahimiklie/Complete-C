@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Pointers in C – Full Details**
 
 ---

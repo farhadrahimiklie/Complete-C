@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Two-Dimensional Arrays (2D Arrays) in C – Full Details**
 
 ---

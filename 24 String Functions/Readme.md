@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Strings and String Functions in C – Full Details**
 
 ---

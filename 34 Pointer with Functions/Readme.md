@@ -1,6 +1,4 @@
 
----
-
 # 🔹 **Pointers with Functions in C – Full Details**
 
 ---

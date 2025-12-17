@@ -241,16 +241,6 @@ void readUsers(const char *filename, User *users, size_t count) {
 }
 ```
 
-
-Great question! Working with **binary files and structs** is a key concept, especially when you want to store and manipulate complex data efficiently. I'll explain step-by-step how you can:
-
-* Write structs to a binary file
-* Read structs back from the binary file
-* Loop through multiple struct records in the file
-* Perform operations like printing or modifying the data
-
----
-
 # How to Work with Binary Files and Structs in C
 
 ---

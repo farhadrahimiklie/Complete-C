@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Structures in C – Full Details**
 
 ---

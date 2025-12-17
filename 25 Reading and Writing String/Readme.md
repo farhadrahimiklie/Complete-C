@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Reading and Writing Strings in C – Full Details**
 
 ---
