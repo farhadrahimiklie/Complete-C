@@ -213,12 +213,3 @@ Hello!
 | Array            | Array of function pointers can implement menus or tables |
 | Advantage        | Flexible, dynamic, reusable code                         |
 
----
-
-Farhad, in simple words:
-
-> * A **function pointer is like a remote control for a function**.
-> * You can **store, pass, and call functions dynamically**.
-> * Useful in **callbacks, menus, and dynamic behavior**.
-
----

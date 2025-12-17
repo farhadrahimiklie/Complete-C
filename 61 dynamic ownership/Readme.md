@@ -1,10 +1,3 @@
-Below is a **complete, uncompromising, step-by-step explanation** of **ownership rules for dynamically allocated memory in C**.
-C does **not** enforce ownership for you. There is no runtime safety net. **You must impose the rules yourself or your program will break**—sometimes silently.
-
-I will explain this as a mentor who assumes you want **real mastery**, not surface knowledge.
-
----
-
 ## 1. What “Ownership” Means in C (Fundamental Definition)
 
 **Ownership** of dynamically allocated memory means:
@@ -422,12 +415,3 @@ If you do not:
 * enforce ownership
 
 Then your program is **incorrect**, even if it “seems to work”.
-
-If you want, next we can go deeper into:
-
-* Ownership patterns in large C projects
-* RAII-like patterns in pure C
-* Reference counting in C
-* Ownership vs lifetime vs scope (advanced)
-
-Say exactly what you want next.

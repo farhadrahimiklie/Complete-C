@@ -1,7 +1,3 @@
-Below is a **complete, precise, and unsimplified English explanation** of `__restrict` / `restrict` in C. Nothing essential is skipped.
-
----
-
 # `__restrict` in C — Full Explanation
 
 `restrict` (and the compiler-specific form `__restrict`) is a **pointer qualifier** introduced to solve one of the biggest optimization barriers in C: **pointer aliasing**.
@@ -252,14 +248,3 @@ You promised exclusive access through `p`, but violated it.
 * Widely used in libc and high-performance code
 
 Mastering `restrict` means you understand **how C actually models memory and optimization**.
-
----
-
-If you want next:
-
-* Assembly comparison with and without `restrict`
-* Multi-dimensional array examples
-* Interaction with caches and pipelines
-* Real benchmarking demonstrations
-
-Say exactly what you want to go deeper into.

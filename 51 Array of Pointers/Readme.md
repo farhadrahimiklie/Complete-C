@@ -1,7 +1,3 @@
-# 🔹 **Array of Pointers in C – Full Details**
-
----
-
 ## 🧠 1. What is an Array of Pointers?
 
 * An **array of pointers** is **an array where each element is a pointer** instead of a regular variable.

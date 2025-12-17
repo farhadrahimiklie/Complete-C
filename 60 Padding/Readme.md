@@ -1,7 +1,3 @@
-Below is a **complete, uncompromising, and technical explanation** of **padding in `struct` and `union` in C**. Nothing essential is skipped. This is written as if you are being trained to reason like a compiler and a systems programmer.
-
----
-
 ## 1. What “Padding” Means in C (Core Definition)
 
 **Padding** is **extra unused bytes** that the compiler automatically inserts **between or after structure members** to satisfy **alignment requirements** imposed by the target architecture and ABI (Application Binary Interface).
@@ -393,15 +389,3 @@ This reveals padding precisely.
 * Reordering members matters
 * Padding breaks naïve serialization
 * The compiler is allowed to add padding — always assume it will
-
----
-
-If you want next-level mastery, the logical next topics are:
-
-* ABI alignment rules per architecture
-* `#pragma pack`
-* Bit-fields and padding interaction
-* Cache-line alignment
-* False sharing and padding for performance
-
-Say the word, and we go deeper.

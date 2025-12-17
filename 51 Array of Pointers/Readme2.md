@@ -1,7 +1,3 @@
-# Complete Guide to Array of Pointers in C
-
----
-
 ### 1. What is an Array of Pointers?
 
 An **array of pointers** is exactly what it sounds like: an array whose elements are pointers. Each element in this array holds the address of some variable (or memory).
