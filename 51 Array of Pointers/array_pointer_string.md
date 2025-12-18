@@ -26,7 +26,7 @@ A **pointer to a string** is simply a pointer to the **first character** of a ch
 Example:
 
 ```c
-char *str = "Hello";
+char* str = "Hello";
 ```
 
 What happens:

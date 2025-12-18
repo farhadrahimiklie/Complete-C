@@ -1,7 +1,3 @@
-Below is a **complete, uncompromising, step-by-step explanation** of how to **modularize dynamic memory allocation and deallocation in C**. Nothing is skipped. The goal is to teach you how a disciplined C programmer designs memory ownership, allocation APIs, and cleanup paths so that programs stay correct, maintainable, and leak-free.
-
----
-
 ## 1. What “modularizing memory management” actually means
 
 In C, **dynamic memory is manual**. Every `malloc` must have exactly one matching `free`.
@@ -388,15 +384,3 @@ If you cannot answer these questions clearly, your design is broken.
 5. Document ownership explicitly
 6. Centralize cleanup paths
 7. Never guess who frees memory
-
----
-
-If you want, next we can go **even deeper** into:
-
-* Designing allocator APIs
-* Reference counting in C
-* RAII-style patterns in pure C
-* Leak detection strategies
-* Ownership diagrams
-
-Say the word.

@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Understanding Bits and Bytes – Full Details**
 
 ---

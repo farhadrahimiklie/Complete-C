@@ -16,13 +16,17 @@ data_type *array_name[size];
 
 ## 🔹 2. Basic Example: Array of Integer Pointers
 
-   int arr[] = {10, 20, 30};
+
+```c
+  int arr[] = {10, 20, 30};
    int *ptr[3] = {&arr[0], &arr[1], &arr[2]};
 
    for (int i = 0; i < 3; i++){
       printf("ptr[%d]: address: %d value: %d\n", i, ptr[i], *ptr[i]);
    }
    
+```
+
 
 ```c
 #include <stdio.h>

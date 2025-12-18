@@ -1,6 +1,3 @@
-
----
-
 # 🔹 **Bitwise Programming in C – Full Details**
 
 ---
