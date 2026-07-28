@@ -21,7 +21,6 @@ data_type *pointer_name;
 int *p;  // pointer to integer
 char *ch; // pointer to char
 ```
-
 ---
 
 ## 🔹 2. Pointer and Variables
